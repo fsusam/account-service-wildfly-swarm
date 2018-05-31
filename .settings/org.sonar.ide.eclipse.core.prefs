@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.login\=e01b724fc32f5dca69c1f0de06dcba77afb9ca9e\r\nsonar.host.url\=https\://sonarqube.lmera.ericsson.se/
+projectKey=account-service-wildfly-swarm\:account-service-wildfly-swarm
+serverUrl=http\://localhost\:9000
+version=2
